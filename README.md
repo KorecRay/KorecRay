@@ -1,70 +1,100 @@
 <h1 align="center">
-  ⚙️ Ray Korec — Tech Explorer | Digital Architect | 次世代玩家
+  🧠 Ray Korec — Architect of Systems | Digital Tactician
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GPU%20Overclocked-%E2%9C%94-black?style=flat-square&logo=nvidia&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Wuthering%20Waves-%F0%9F%8C%8C-0a0a0a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Powered%20by-Tech%20&%20Rhythm-critical?style=flat-square&color=ff003c"/>
+  <img src="https://img.shields.io/badge/System%20Status-STABLE-critical?style=flat-square&color=ff003c"/>
+  <img src="https://img.shields.io/badge/GPU%20Thermal%20Limit-NOT%20REACHED-0055ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wuthering%20Drive-Resonating-blueviolet?style=flat-square"/>
 </p>
 
 ---
 
-### 🧠 Core Tech Stack
+## ⚙️ SYSTEM OVERVIEW
+
+> 「冷卻裝置上線，演算核心全功率待命」  
+> *Architecture, Optimization, Resonance — this is how I code.*
+
+---
+
+## 🔩 RECENT DEPLOYMENTS（Top 3 Projects）
+
+<table>
+  <tr>
+    <td width="33%">
+      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/mine.png"/>
+      <br/>
+      <strong>🧱 GPU Clicker Miner</strong><br/>
+      <sub>模擬顯卡挖礦邏輯、電力控制、自動資源生成系統。</sub><br/>
+      <code>React</code> <code>JS</code> <code>Mining Engine</code>
+    </td>
+    <td width="33%">
+      <img src="https://img.icons8.com/external-smashingstocks-outline-color-smashing-stocks/64/000000/ai-car.png"/>
+      <br/>
+      <strong>🚗 AutoVehicNet</strong><br/>
+      <sub>模擬千車級城市協調通訊，自主路線計算與避碰策略。</sub><br/>
+      <code>Node.js</code> <code>MongoDB</code> <code>Vehicle Routing</code>
+    </td>
+    <td width="33%">
+      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/reading.png"/>
+      <br/>
+      <strong>📘 Quizlet Clone</strong><br/>
+      <sub>前端資料集學習平台，支援搜尋、收藏、底欄快速跳轉。</sub><br/>
+      <code>React</code> <code>Frontend UX</code> <code>MongoDB</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧬 TECH STATS — Core Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-1f1f1f?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/C++-2d2d2d?style=for-the-badge&logo=c%2b%2b&logoColor=blueviolet"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/ReactJS-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=green"/>
+  <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=4DB33D"/>
 </p>
 
 ---
 
-### 🚀 Projects / Systems
-
-- 🎮 **GPU Clicker Miner** – 虛擬顯卡採礦模擬，含自動化與資源管理
-- 📡 **AutoVehicNet** – 自駕車城市通訊模擬，含路線共享、區域協調
-- 📖 **Quizlet Clone** – 前端資料集工具，含套件跳轉與學習統計
-
----
-
-### 🎮 鳴潮注入 | *[Wuthering Presence]*
-
-> 「我將不再等待風來，這一次，我就是風。」 — 凜焰之刃 ‧ 凱音
+## 💿 SYSTEM DIAGNOSTICS
 
 <p align="center">
-  <img src="https://media.githubusercontent.com/media/wutheringwaves/assets/main/kaine_line.png" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RayKorec&theme=tokyonight&show_icons=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayKorec&layout=compact&theme=tokyonight"/>
 </p>
-
-- 🌀 使用鳴潮音效素材設計 UI 反饋
-- 🎧 電音 Setlist 含鳴潮 Remix 插曲（如《鐘聲淨化》Live）
-- 🔧 UI 靈感來自「感知共鳴器」介面，配色為 **銀黑藍光**
 
 ---
 
-### 📊 GitHub 活躍狀況
+## 🌌 RESONANCE SEQUENCE（鳴潮點綴）
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayKorec&show_icons=true&theme=radical&count_private=true&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayKorec&layout=compact&theme=radical"/>
+  <img src="https://i.imgur.com/7qZGfyf.png" width="500"/>
 </p>
+
+> 「在這片共鳴場中，我尋找的是不被遺忘的回音。」  
+> — 凜焰之刃 ‧ 凱音
+
+- 🧭 鳴潮 UI 導入專案配色
+- 🔉 數位音訊與 Wuthering Remix 融入音樂工具
+- 🌀 靈感來自「感知干涉」與「調律信標」
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 CONNECTION MODULE
 
-<p>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF3C3C?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Me-darkblue?style=flat-square&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF003C?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Darkmode?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/RayKorec/RayKorec/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://github.com/RayKorec/RayKorec/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
 </p>
 
-<sub><i>「終有一日，技術與幻想將融合 —— 而我會站在交界之上。」</i></sub>
+<p align="center"><sub><i>「此身為機，思維為光，記憶為聲——我乃技術的共鳴者。」</i></sub></p>
