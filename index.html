@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ray Korec | ROG Themed Dev Page</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      background: #0b0c10;
+      color: #f8f8f8;
+      font-family: 'Orbitron', sans-serif;
+      overflow-x: hidden;
+    }
+
+    header {
+      padding: 60px 20px 30px;
+      text-align: center;
+      background: linear-gradient(to right, #ff0040, #9e00ff);
+      -webkit-background-clip: text;
+      color: transparent;
+      font-size: 3em;
+      letter-spacing: 2px;
+      text-shadow: 0 0 10px #ff0040, 0 0 20px #9e00ff;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .projects {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 20px;
+    }
+
+    .card {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid #ff004080;
+      border-radius: 16px;
+      padding: 20px;
+      backdrop-filter: blur(10px);
+      box-shadow: 0 0 20px #ff004030;
+      transition: transform 0.3s ease;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 30px #ff004090;
+    }
+
+    .card h3 {
+      color: #ff0040;
+    }
+
+    .loader-bar {
+      width: 100%;
+      height: 6px;
+      margin-top: 10px;
+      background: linear-gradient(90deg, #00d4ff, #0088ff);
+      animation: loading 3s infinite alternate;
+      border-radius: 10px;
+    }
+
+    @keyframes loading {
+      0% { transform: scaleX(0.2); transform-origin: left; }
+      100% { transform: scaleX(1); transform-origin: left; }
+    }
+
+    @media(max-width: 768px) {
+      .projects {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>SYSTEM ONLINE : RAY_KOREC.EXE</header>
+
+  <div class="container">
+    <section class="projects">
+      <div class="card">
+        <h3>GPU Clicker Miner</h3>
+        <p>A real-time mining simulator with modular GPU logic, power management, and upgrade system.</p>
+        <div class="loader-bar"></div>
+      </div>
+
+      <div class="card">
+        <h3>AutoVehicNet</h3>
+        <p>City-scale autonomous vehicular network simulation using decentralized JS coordination.</p>
+        <div class="loader-bar"></div>
+      </div>
+
+      <div class="card">
+        <h3>WutherNode</h3>
+        <p>鳴潮風格 UI + 音樂視覺化主控節點系統，結合 WebSocket 與動畫控制模組。</p>
+        <div class="loader-bar"></div>
+      </div>
+    </section>
+  </div>
+</body>
+</html>
