@@ -1,100 +1,58 @@
 <h1 align="center">
-  🧠 Ray Korec — Architect of Systems | Digital Tactician
+  🛡️ SYSTEM ONLINE: [ RAY_KOREC.EXE ]
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System%20Status-STABLE-critical?style=flat-square&color=ff003c"/>
-  <img src="https://img.shields.io/badge/GPU%20Thermal%20Limit-NOT%20REACHED-0055ff?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Wuthering%20Drive-Resonating-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Firmware-v3.4.7-red?style=flat-square&logo=gnubash"/>
+  <img src="https://img.shields.io/badge/Protocol-W.W.RESONANCE-0055ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GPU%20Core%20Load-98%25-critical?style=flat-square&color=ff003c"/>
 </p>
 
 ---
 
-## ⚙️ SYSTEM OVERVIEW
+### 🧩 SYSTEM IDENTITY
 
-> 「冷卻裝置上線，演算核心全功率待命」  
-> *Architecture, Optimization, Resonance — this is how I code.*
 
----
-
-## 🔩 RECENT DEPLOYMENTS（Top 3 Projects）
-
-<table>
-  <tr>
-    <td width="33%">
-      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/mine.png"/>
-      <br/>
-      <strong>🧱 GPU Clicker Miner</strong><br/>
-      <sub>模擬顯卡挖礦邏輯、電力控制、自動資源生成系統。</sub><br/>
-      <code>React</code> <code>JS</code> <code>Mining Engine</code>
-    </td>
-    <td width="33%">
-      <img src="https://img.icons8.com/external-smashingstocks-outline-color-smashing-stocks/64/000000/ai-car.png"/>
-      <br/>
-      <strong>🚗 AutoVehicNet</strong><br/>
-      <sub>模擬千車級城市協調通訊，自主路線計算與避碰策略。</sub><br/>
-      <code>Node.js</code> <code>MongoDB</code> <code>Vehicle Routing</code>
-    </td>
-    <td width="33%">
-      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/reading.png"/>
-      <br/>
-      <strong>📘 Quizlet Clone</strong><br/>
-      <sub>前端資料集學習平台，支援搜尋、收藏、底欄快速跳轉。</sub><br/>
-      <code>React</code> <code>Frontend UX</code> <code>MongoDB</code>
-    </td>
-  </tr>
-</table>
+> "Not waiting for the storm — I **am** the storm."
 
 ---
 
-## 🧬 TECH STATS — Core Stack
+## 🔧 MODULE DEPLOYMENTS
 
-<p>
-  <img src="https://img.shields.io/badge/C++-2d2d2d?style=for-the-badge&logo=c%2b%2b&logoColor=blueviolet"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/ReactJS-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=green"/>
-  <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=4DB33D"/>
-</p>
+#### 🧱 GPU Clicker Miner
+- 模擬型資源爆肝系統，GPU自動運作、自定義電力演算法、自動獲利核心
+- `HashRate() → Coin() → Upgrade()`
+- 🔩 React | JSON-Defined GPU Protocol | Realtime Dashboard
 
----
+#### 🚘 AutoVehicNet
+- 城域級自駕網路模擬，萬車規模協作、區塊節點路由、延遲優化系統
+- `Vehicle.Ping() → Sync() → RoutePlan()`
+- 🔩 Node.js | MongoDB | Custom Protocol Layer
 
-## 💿 SYSTEM DIAGNOSTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayKorec&theme=tokyonight&show_icons=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayKorec&layout=compact&theme=tokyonight"/>
-</p>
+#### 📘 Quizlet Clone
+- 教學模組系統，支援記憶片段、底部導航跳轉、主題記憶庫
+- `FlashData[] → FocusSet() → TestCore()`
+- 🔩 React | Tailwind | LocalSync
 
 ---
 
-## 🌌 RESONANCE SEQUENCE（鳴潮點綴）
+## 🎛 PRIMARY LOADOUT
 
-<p align="center">
-  <img src="https://i.imgur.com/7qZGfyf.png" width="500"/>
-</p>
-
-> 「在這片共鳴場中，我尋找的是不被遺忘的回音。」  
-> — 凜焰之刃 ‧ 凱音
-
-- 🧭 鳴潮 UI 導入專案配色
-- 🔉 數位音訊與 Wuthering Remix 融入音樂工具
-- 🌀 靈感來自「感知干涉」與「調律信標」
+| Category | Tech |
+|---|---|
+| 🔁 主語言 | `C++`, `JavaScript`, `Node.js` |
+| 🌐 前端 | `React`, `Tailwind`, `Vite`, `HTML Canvas` |
+| 💾 資料庫 | `MongoDB`, `LocalStorage`, `REST` |
+| 🧠 工具鏈 | `Git`, `VSCode`, `Webpack`, `Midjourney`, `TouchDesigner` |
+| 🎧 音訊工具 | `Ableton`, `Serato`, `TidalCycles` |
 
 ---
 
-## 🌐 CONNECTION MODULE
+## 🔮 W.W. RESONANCE CORE (鳴潮共鳴區)
 
-<p align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF003C?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Darkmode?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-</p>
+> 「每次演算崩潰的背後，都是靈魂在尋找出口。」
 
----
-
-<p align="center">
-  <img src="https://github.com/RayKorec/RayKorec/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
-</p>
-
-<p align="center"><sub><i>「此身為機，思維為光，記憶為聲——我乃技術的共鳴者。」</i></sub></p>
+```diff
++ Fragment: 鳴潮角色語音已注入 UI 回饋系統
++ ResonanceOverlay: 接入凱音配色與視覺粒子樣式
++ EchoSync: 使用鳴潮素材混音於現場 Live Set
